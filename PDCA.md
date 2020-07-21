@@ -1,7 +1,7 @@
 # Requirement
 
 #### tasking - writing down the decomposition process
-- 统计 items 
+- 统计 items 的个数
 > 输入：barcodes: string<br/>
 > 输出：{item:string, Quantity:int}
 
